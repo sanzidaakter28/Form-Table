@@ -1,0 +1,33 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+}
+label{
+	font-size: 25px;
+}
+.first_name, .last_name, .email, .password{
+	width: 90%;
+	height: 20px;
+	padding: 10px;
+	font-size: 18px;
+}
+.massage{
+	font-size: 18px;
+	padding: 10px;
+}
+.container{
+	padding: 20px;
+}
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+td:hover{
+	background-color: #ddd;
+}
